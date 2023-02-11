@@ -4,7 +4,7 @@
     <label for="fname">First Nameeeeeeeeeeeeeeeeeeeeeeeeeeee</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-    <label for="lname">Last Name</label>
+    <label for="lname">Last Nameeeeeeeeeeeee</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
     <label for="country">Country</label>
